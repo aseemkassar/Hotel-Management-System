@@ -150,7 +150,7 @@ Guests automatically receive beautiful styled emails for:
 
 ### 🌟 Mohd Aseem
 
-*Full Stack Developer | Python Enthusiast | UI/UX Lover*
+*Data Analyst*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
 
