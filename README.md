@@ -69,7 +69,7 @@ Hotel Management/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hotel-management-system.git
+git clone https://github.com/aseemkassar/hotel-management-system.git
 cd hotel-management-system
 ```
 
@@ -84,21 +84,21 @@ pip install mysql-connector-python Pillow
 Host     : localhost
 Port     : 3306
 User     : root
-Password : your_password
+Password : aseem
 ```
 
 ### 4️⃣ Configure Email (Optional)
 ```python
 # In hotel.py, update these lines:
-self.sender_email    = "your_email@gmail.com"
-self.sender_password = "your_gmail_app_password"
+self.sender_email    = "aseemmwn2006@gmail.com"
+self.sender_password = "*************"
 ```
 > 💡 Use a **Gmail App Password**, not your regular Gmail password.  
 > Generate it from: Google Account → Security → 2-Step Verification → App Passwords
 
 ### 5️⃣ Run the Application
 ```bash
-python hotel.py
+python hotel_project.py
 ```
 
 ---
