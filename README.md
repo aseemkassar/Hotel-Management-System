@@ -46,7 +46,6 @@ Whether you're managing a boutique hotel or a luxury resort, this system handles
 🖼️ Images       →   Pillow (PIL)
 🧵 Threading    →   Python threading (async email)
 ```
-
 ---
 
 ## 📁 Project Structure
