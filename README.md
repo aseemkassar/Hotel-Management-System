@@ -62,7 +62,6 @@ Hotel Management/
 ├── 🖼️ default_room.jpg         # Default background image
 └── 📘 README.md                 # Project documentation
 ```
-
 ---
 
 ## ⚙️ Installation & Setup
